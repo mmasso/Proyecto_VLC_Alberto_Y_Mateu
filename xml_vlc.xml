@@ -1,11 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>  <!--Aixó és el codi de caràcters que s'han codificat les dades-->
-<!--Asignatura: Llenguatge de marques -->
-<!--Nom del treball: ManasAlberto_MassoMateu_Tasca 2.2
-                     ManasAlberto_MassoMateu Tasca 3.1-->
-<!--Noms dels autors: Alberto J. Mañas González y Mateu Massó Grau -->
-
+<?xml version="1.0" encoding="UTF-8" ?>
 <musica xml:lang="es" xmlns:xsi="http:// www.w3.org/2001/XMLSchema-instance" 
-xsi:noNamespaceSchemaLocation="musica.xsd"> <!-- És el pare-->
+xsi:noNamespaceSchemaLocation="musica.xsd">
     <artists>
         <artist>
             <id>1</id>
@@ -18,12 +13,12 @@ xsi:noNamespaceSchemaLocation="musica.xsd"> <!-- És el pare-->
                         <id>1</id>
                         <name>Insert coin</name>
                         <miliseconds>99000</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN</path>
-                        <media_types>mp3</media_types><!--Aixó és es format de la cançó-->
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Insert_coin.mp3</path>
+                        <media_types>mp3</media_types>
                         <genre>Alternative Metal</genre>
+                        <composer>Paul Gray</composer>
                     </track>
                 </tracks>
-                <composer>Paul Gray</composer> <!--Pot haber més d'un compositor-->
             </album>
         </artist>
         <artist>
@@ -37,7 +32,7 @@ xsi:noNamespaceSchemaLocation="musica.xsd"> <!-- És el pare-->
                         <id>2</id>
                         <name>Because</name>
                         <miliseconds>165000</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN</path>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Because.mp3</path>
                         <media_types>mp3</media_types>
                         <genre>Rock Pop</genre>
                         <composer>Jhon Lennon</composer> 
@@ -56,7 +51,7 @@ xsi:noNamespaceSchemaLocation="musica.xsd"> <!-- És el pare-->
                         <id>3</id>
                         <name>Battery</name>
                         <miliseconds>312000</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN</path>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Battery.mp3</path>
                         <media_types>mp3</media_types>
                         <genre>Trash Metal</genre>
                         <composer>Lars Ulrich</composer>
@@ -75,7 +70,7 @@ xsi:noNamespaceSchemaLocation="musica.xsd"> <!-- És el pare-->
                         <id>4</id>
                         <name>Back in Black</name>
                         <miliseconds>255000</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN</path>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Back_in_black.mp3</path>
                         <media_types>mp3</media_types>
                         <genre>Hard Rock</genre>
                         <composer>Axel Rose</composer>
@@ -94,7 +89,7 @@ xsi:noNamespaceSchemaLocation="musica.xsd"> <!-- És el pare-->
                         <id>5</id>
                         <name>The A Chance On Me</name>
                         <miliseconds>249000</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN</path>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\The_a_chance_on_me.mp3</path>
                         <media_types>mp3</media_types>
                         <genre>Pop</genre>
                         <composer>Benny Andersson</composer>
@@ -104,4 +99,3 @@ xsi:noNamespaceSchemaLocation="musica.xsd"> <!-- És el pare-->
         </artist>
     </artists>
 </musica>
-<!--Tencam etiquetas de forma coherent y finalitzam es XML--> 
