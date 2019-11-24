@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>  <!--Aixó és el codi de caràcters que s'han codificat les dades-->
+<!--Asignatura: Llenguatge de marques -->
+<!--Nom del treball: ManasAlberto_MassoMateu_Tasca 2.2
+                     ManasAlberto_MassoMateu Tasca 3.1-->
+<!--Noms dels autors: Alberto J. Mañas González y Mateu Massó Grau -->
+
+<musica xml:lang="es" xmlns:xsi="http:// www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="musica.xsd"> <!-- És el pare-->
+    <artists>
+        <artist>
+            <id>1</id>
+            <nom>Slipknot</nom>
+            <album>
+                <id>1</id>
+                <title>We are not your kind</title>
+                <tracks>
+                    <track>
+                        <id>1</id>
+                        <name>Insert coin</name>
+                        <miliseconds>99000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN</path>
+                        <media_types>mp3</media_types><!--Aixó és es format de la cançó-->
+                        <genre>Alternative Metal</genre>
+                    </track>
+                </tracks>
+                <composer>Paul Gray</composer> <!--Pot haber més d'un compositor-->
+            </album>
+        </artist>
+        <artist>
+            <id>2</id>
+            <nom>The Beatles</nom>
+            <album>
+                <id>2</id>
+                <title>Love</title>
+                <tracks>
+                    <track>
+                        <id>2</id>
+                        <name>Because</name>
+                        <miliseconds>165000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN</path>
+                        <media_types>mp3</media_types>
+                        <genre>Rock Pop</genre>
+                        <composer>Jhon Lennon</composer> 
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>>
+            <id>3</id>
+            <nom>Metallica</nom>
+            <album>
+                <id>3</id>
+                <title>Master of Puppets</title>
+                <tracks>
+                    <track>
+                        <id>3</id>
+                        <name>Battery</name>
+                        <miliseconds>312000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN</path>
+                        <media_types>mp3</media_types>
+                        <genre>Trash Metal</genre>
+                        <composer>Lars Ulrich</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>4</id>
+            <nom>ACDC</nom>
+            <album>
+                <id>4</id>
+                <title>Back in Black</title>
+                <tracks>
+                    <track>
+                        <id>4</id>
+                        <name>Back in Black</name>
+                        <miliseconds>255000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN</path>
+                        <media_types>mp3</media_types>
+                        <genre>Hard Rock</genre>
+                        <composer>Axel Rose</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>5</id>
+            <nom>ABBA</nom>
+            <album>
+                <id>5</id>
+                <title>The Album</title>
+                <tracks>
+                    <track>
+                        <id>5</id>
+                        <name>The A Chance On Me</name>
+                        <miliseconds>249000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN</path>
+                        <media_types>mp3</media_types>
+                        <genre>Pop</genre>
+                        <composer>Benny Andersson</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+    </artists>
+</musica>
+<!--Tencam etiquetas de forma coherent y finalitzam es XML--> 
