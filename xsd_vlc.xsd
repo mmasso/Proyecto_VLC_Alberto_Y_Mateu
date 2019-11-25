@@ -1,0 +1,51 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="musica">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="artists">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="artist" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element type="xs:byte" name="id"/>
+                    <xs:element type="xs:string" name="nom"/>
+                    <xs:element name="album" maxOccurs="unbounded" minOccurs="0">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:byte" name="id"/>
+                          <xs:element type="xs:string" name="title"/>
+                          <xs:element name="tracks">
+                            <xs:complexType mixed="true">
+                              <xs:sequence>
+                                <xs:element name="track" maxOccurs="unbounded" minOccurs="0">
+                                  <xs:complexType>
+                                    <xs:sequence>
+                                      <xs:element type="xs:byte" name="id"/>
+                                      <xs:element type="xs:string" name="name"/>
+                                      <xs:element type="xs:int" name="miliseconds"/>
+                                      <xs:element type="xs:string" name="path"/>
+                                      <xs:element type="xs:string" name="media_types"/>
+                                      <xs:element type="xs:string" name="genre" maxOccurs="unbounded" minOccurs="0"/>
+                                      <xs:element type="xs:string" name="composer" maxOccurs="unbounded" minOccurs="0"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute ref="xml:lang"/>
+      <xs1:attribute ref="xs:noNamespaceSchemaLocation" xmlns:xs="http:// www.w3.org/2001/XMLSchema-instance" xmlns:xs1="http://www.w3.org/2001/XMLSchema"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
