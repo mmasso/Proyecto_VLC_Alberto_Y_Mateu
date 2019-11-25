@@ -134,10 +134,6 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                     </track>
                 </tracks>
             </album>
-        </artist>
-        <artist> 
-            <id>8</id>
-            <nom>Terror Reid</nom>
             <album>
                 <id>8</id>
                 <title>Buried Alive feat Eliozie</title>
@@ -153,10 +149,6 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                     </track>
                 </tracks>
             </album>
-        </artist>
-        <artist>
-            <id>9</id>
-            <nom>Terror Reid</nom>
             <album>
                 <id>9</id>
                 <title>The Otha Side</title> 
@@ -174,7 +166,7 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
             </album>
         </artist>
          <artist>
-            <id>10</id>
+            <id>8</id>
             <nom>Greta Van Fleet</nom>
             <album>
                 <id>10</id>
@@ -193,10 +185,6 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                     </track>
                 </tracks>
             </album>
-        </artist>
-         <artist>
-            <id>11</id>
-            <nom>Greta Van Fleet</nom>
             <album>
                 <id>11</id>
                 <title>Black Smoke Rising</title> 
@@ -214,10 +202,6 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                     </track>
                 </tracks>
             </album>
-        </artist>
-         <artist>
-            <id>12</id>
-            <nom>Greta Van Fleet</nom>
             <album>
                 <id>12</id>
                 <title>Anthem of the Peaceful Army</title>
@@ -235,10 +219,6 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                     </track>
                 </tracks>
             </album>
-        </artist>
-         <artist>
-            <id>13</id>
-            <nom>Greta Van Fleet</nom>
             <album>
                 <id>13</id>
                 <title>From the Fires</title>
@@ -256,10 +236,6 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                     </track>
                 </tracks>
             </album>
-        </artist>
-         <artist>
-            <id>14</id>
-            <nom>Greta Van Fleet</nom>
             <album>
                 <id>14</id>
                 <title>Black Smoke Rising</title>
@@ -279,7 +255,7 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
             </album>
         </artist>
           <artist>
-            <id>15</id>
+            <id>9</id>
             <nom>Red Hot Chili Peppers</nom>
             <album>
                 <id>15</id>
@@ -296,10 +272,6 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                     </track>
                 </tracks>
             </album>
-        </artist>
-        <artist>
-            <id>16</id>
-            <nom>Red Hot Chili Peppers</nom>
             <album>
                 <id>16</id>
                 <title>Californication</title>
@@ -315,10 +287,6 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                     </track>
                 </tracks>
             </album>
-        </artist>
-        <artist>
-            <id>17</id>
-            <nom>Red Hot Chili Peppers</nom>
             <album>
                 <id>17</id>
                 <title>Californication</title>
@@ -334,10 +302,6 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                     </track>
                 </tracks>
             </album>
-        </artist>
-        <artist>
-            <id>18</id>
-            <nom>Red Hot Chili Peppers</nom>
             <album>
                 <id>18</id>
                 <title>Stadium Arcadium</title>
@@ -355,7 +319,7 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
             </album>
         </artist>
         <artist>
-            <id>19</id>
+            <id>10</id>
             <nom>Nirvana</nom>
             <album>
                 <id>19</id>
@@ -372,10 +336,6 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                     </track>
                 </tracks>
             </album>
-        </artist>
-        <artist>
-            <id>20</id>
-            <nom>Nirvana</nom>
             <album>
                 <id>20</id>
                 <title>Nevermind</title>
@@ -391,10 +351,6 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                     </track>
                 </tracks>
             </album>
-        </artist>
-        <artist>
-            <id>21</id>
-            <nom>Nirvana</nom>
             <album>
                 <id>21</id>
                 <title>Nevermind</title>
@@ -412,7 +368,7 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
             </album>
         </artist>
         <artist>
-            <id>22</id>
+            <id>11</id>
             <nom>Green Day</nom>
             <album>
                 <id>22</id>
@@ -430,10 +386,6 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                     </track>
                 </tracks>
             </album>
-        </artist>
-        <artist>
-            <id>23</id>
-            <nom>Green Day</nom>
             <album>
                 <id>23</id>
                 <title>American Idiot</title>
@@ -450,10 +402,6 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                     </track>
                 </tracks>
             </album>
-        </artist>
-        <artist>
-            <id>24</id>
-            <nom>Green Day</nom>
             <album>
                 <id>24</id>
                 <title>American Idiot</title>
@@ -472,7 +420,7 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
             </album>
         </artist>
         <artist>
-            <id>25</id>
+            <id>12</id>
             <nom>Pantera</nom>
             <album>
                 <id>25</id>
@@ -491,7 +439,7 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
             </album>
         </artist>
         <artist>
-            <id>26</id>
+            <id>13</id>
             <nom>Motorhead</nom>
             <album>
                 <id>26</id>
@@ -508,10 +456,6 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                     </track>
                 </tracks>
             </album>
-        </artist>
-        <artist>
-            <id>27</id>
-            <nom>Motorhead</nom>
             <album>
                 <id>27</id>
                 <title>Ace of Spades</title>
@@ -529,7 +473,7 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
             </album>
         </artist>
         <artist>
-            <id>28</id>
+            <id>14</id>
             <nom>RADWIMPS</nom>
             <album>
                 <id>28</id>
@@ -548,8 +492,8 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
             </album>
         </artist>
         <artist>
-            <id>29</id>
-            <nom>Rosalira</nom>
+            <id>15</id>
+            <nom>Rosalia</nom>
             <album>
                 <id>29</id>
                 <title>Con altura</title>
@@ -567,7 +511,7 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
             </album>
         </artist>
         <artist>
-            <id>30</id>
+            <id>16</id>
             <nom>RELS B</nom>
             <album>
                 <id>30</id>
@@ -610,7 +554,7 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
             </album>
         </artist>
         <artist>
-            <id>31</id>
+            <id>17</id>
             <nom>Ed Sheeran</nom>
             <album>
                 <id>32</id>
@@ -653,7 +597,7 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
             </album>
         </artist>
         <artist>
-            <id>32</id>
+            <id>18</id>
             <nom>Frank Sinatra</nom>
             <album>
                 <id>34</id>
@@ -690,7 +634,7 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
             </album>
         </artist>
         <artist>
-            <id>33</id>
+            <id>19</id>
             <nom>Porter Robinson</nom>
             <album>
                 <id>35</id>
@@ -733,7 +677,7 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
             </album>
         </artist>
         <artist>
-            <id>34</id>
+            <id>20</id>
             <nom>Antonio Molina</nom>
             <album>
                 <id>37</id>
@@ -762,7 +706,7 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
             </album>
         </artist>
         <artist>
-            <id>35</id>
+            <id>21</id>
             <nom>Bob Seger</nom>
             <album>
                 <id>38</id>
@@ -790,7 +734,7 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
             </album>
         </artist>
         <artist>
-            <id>36</id>
+            <id>22</id>
             <nom>Snoop Dogg</nom>
             <album>
                 <id>39</id>
@@ -818,7 +762,7 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
             </album>
         </artist>
         <artist>
-            <id>37</id>
+            <id>23</id>
             <nom>Jake Bugg</nom>
             <album>
                 <id>40</id>
