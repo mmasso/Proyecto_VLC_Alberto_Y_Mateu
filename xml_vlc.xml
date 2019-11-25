@@ -97,5 +97,440 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                 </tracks>
             </album>
         </artist>
+        <artist> <!-- ALBERTO-->
+            <id>6</id>
+            <nom>Terror Reid</nom>
+            <album>
+                <id>6</id>
+                <title>When It's All Gone</title>
+                <tracks>
+                    <track>
+                        <id>6</id>
+                        <name>When It's All Gone</name>
+                        <miliseconds>180000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\When_it_is_all_gone.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Hip hop</genre>
+                        <composer>Getter</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist> 
+            <id>7</id>
+            <nom>Terror Reid</nom>
+            <album>
+                <id>7</id>
+                <title>Uppercuts</title> 
+                <tracks>
+                    <track>
+                        <id>7</id>
+                        <name>Uppercuts</name>
+                        <miliseconds>180000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Uppercuts.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Hip hop</genre>
+                        <composer>Getter</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist> 
+            <id>8</id>
+            <nom>Terror Reid</nom>
+            <album>
+                <id>8</id>
+                <title>Buried Alive feat Eliozie</title>
+                <tracks>
+                    <track>
+                        <id>8</id>
+                        <name>Buried Alive feat. Eliozie</name>
+                        <miliseconds>181800</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Buried_alive_feat_eliozie.mp3</path> <!-- el feat lo ponemos sin el . de feat.-->
+                        <media_types>mp3</media_types>
+                        <genre>Hip hop</genre>
+                        <composer>Getter</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>9</id>
+            <nom>Terror Reid</nom>
+            <album>
+                <id>9</id>
+                <title>The Otha Side</title> 
+                <tracks>
+                    <track>
+                        <id>9</id>
+                        <name>The Otha Side</name>
+                        <miliseconds>152400</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\The_otha_side.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Hip hop</genre>
+                        <composer>Getter</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+         <artist>
+            <id>10</id>
+            <nom>Greta Van Fleet</nom>
+            <album>
+                <id>10</id>
+                <title>Black Smoke Rising</title>
+                <tracks>
+                    <track>
+                        <id>10</id>
+                        <name>Black Smoke Rising</name>
+                        <miliseconds>252000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Black_smoke_rising.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Hard rock</genre>
+                        <composer>Josh kiszka</composer>
+                        <composer>Jake kiszka</composer>
+                        <composer>Samuel kiszka</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+         <artist>
+            <id>11</id>
+            <nom>Greta Van Fleet</nom>
+            <album>
+                <id>11</id>
+                <title>Black Smoke Rising</title> 
+                <tracks>
+                    <track>
+                        <id>11</id>
+                        <name>Highway Tune</name>
+                        <miliseconds>180000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Highway_tune.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Hard rock</genre>
+                        <composer>Josh kiszka</composer>
+                        <composer>Jake kiszka</composer>
+                        <composer>Samuel kiszka</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+         <artist>
+            <id>12</id>
+            <nom>Greta Van Fleet</nom>
+            <album>
+                <id>12</id>
+                <title>Anthem of the Peaceful Army</title>
+                <tracks>
+                    <track>
+                        <id>12</id>
+                        <name>When The Curtain Falls</name>
+                        <miliseconds>246600</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\When_the_curtain_falls.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Hard rock</genre>
+                        <composer>Josh kiszka</composer>
+                        <composer>Jake kiszka</composer>
+                        <composer>Samuel kiszka</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+         <artist>
+            <id>13</id>
+            <nom>Greta Van Fleet</nom>
+            <album>
+                <id>13</id>
+                <title>From the Fires</title>
+                <tracks>
+                    <track>
+                        <id>13</id>
+                        <name>Talk on the Street</name>
+                        <miliseconds>244800</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Talk_on_the_street.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Hard rock</genre>
+                        <composer>Josh kiszka</composer>
+                        <composer>Jake kiszka</composer>
+                        <composer>Samuel kiszka</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+         <artist>
+            <id>14</id>
+            <nom>Greta Van Fleet</nom>
+            <album>
+                <id>14</id>
+                <title>Black Smoke Rising</title>
+                <tracks>
+                    <track>
+                        <id>14</id>
+                        <name>Flower Power</name>
+                        <miliseconds>307800</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Flower_power.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Hard rock</genre>
+                        <composer>Josh kiszka</composer>
+                        <composer>Jake kiszka</composer>
+                        <composer>Samuel kiszka</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+          <artist>
+            <id>15</id>
+            <nom>Red Hot Chili Peppers</nom>
+            <album>
+                <id>15</id>
+                <title>The Getaway</title>
+                <tracks>
+                    <track>
+                        <id>15</id>
+                        <name>Dark Necessities</name>
+                        <miliseconds>307800</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Dark_necessities.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Rock alternativo</genre>
+                        <composer>Anthony kiedis</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>16</id>
+            <nom>Red Hot Chili Peppers</nom>
+            <album>
+                <id>16</id>
+                <title>Californication</title>
+                <tracks>
+                    <track>
+                        <id>16</id>
+                        <name>Californication</name>
+                        <miliseconds>312600</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Californication.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Rock alternativo</genre>
+                        <composer>Anthony kiedis</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>17</id>
+            <nom>Red Hot Chili Peppers</nom>
+            <album>
+                <id>17</id>
+                <title>Californication</title>
+                <tracks>
+                    <track>
+                        <id>17</id>
+                        <name>Otherside</name>
+                        <miliseconds>247200</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Otherside.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Rock alternativo</genre>
+                        <composer>Anthony kiedis</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>18</id>
+            <nom>Red Hot Chili Peppers</nom>
+            <album>
+                <id>18</id>
+                <title>Stadium Arcadium</title>
+                <tracks>
+                    <track>
+                        <id>18</id>
+                        <name>Snow</name>
+                        <miliseconds>321000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Snow.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Rock alternativo</genre>
+                        <composer>Anthony kiedis</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>19</id>
+            <nom>Nirvana</nom>
+            <album>
+                <id>19</id>
+                <title>Nevermind</title>
+                <tracks>
+                    <track>
+                        <id>19</id>
+                        <name>Smells Like Teen Spirit</name>
+                        <miliseconds>262800</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Smells_like_teen_spirit.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Rock alternativo</genre>
+                        <composer>Kurt Cobain</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>20</id>
+            <nom>Nirvana</nom>
+            <album>
+                <id>20</id>
+                <title>Nevermind</title>
+                <tracks>
+                    <track>
+                        <id>20</id>
+                        <name>Come as You Are</name>
+                        <miliseconds>207000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Come_as_you_are.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Rock alternativo</genre>
+                        <composer>Kurt Cobain</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>21</id>
+            <nom>Nirvana</nom>
+            <album>
+                <id>21</id>
+                <title>Nevermind</title>
+                <tracks>
+                    <track>
+                        <id>21</id>
+                        <name>Lithium</name>
+                        <miliseconds>249000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Lithium.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Rock alternativo</genre>
+                        <composer>Kurt Cobain</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>22</id>
+            <nom>Green Day</nom>
+            <album>
+                <id>22</id>
+                <title>Father of All Motherfuckers</title>
+                <tracks>
+                    <track>
+                        <id>22</id>
+                        <name>Father Of All Motherfuckers</name>
+                        <miliseconds>141000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Father_of_all_motherfuckers.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Punk</genre>
+                        <genre>Rock alternativo</genre>
+                        <composer>Billie Joe Armstrong</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>23</id>
+            <nom>Green Day</nom>
+            <album>
+                <id>23</id>
+                <title>American Idiot</title>
+                <tracks>
+                    <track>
+                        <id>23</id>
+                        <name>Holiday</name>
+                        <miliseconds>264600</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Holiday.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Punk</genre>
+                        <genre>Rock alternativo</genre>
+                        <composer>Billie Joe Armstrong</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>24</id>
+            <nom>Green Day</nom>
+            <album>
+                <id>24</id>
+                <title>American Idiot</title>
+                <tracks>
+                    <track>
+                        <id>24</id>
+                        <name>American Idiot</name>
+                        <miliseconds>181800</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\American_idiot.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Punk</genre>
+                        <genre>Rock alternativo</genre>
+                        <composer>Billie Joe Armstrong</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>25</id>
+            <nom>Pantera</nom>
+            <album>
+                <id>25</id>
+                <title>Vulgar Display of Power</title>
+                <tracks>
+                    <track>
+                        <id>25</id>
+                        <name>Walk</name>
+                        <miliseconds>309000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Walk.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Heavy metal</genre>
+                        <composer>Dimebag Darrell</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>26</id>
+            <nom>Motorhead</nom>
+            <album>
+                <id>26</id>
+                <title>Ace of Spades</title>
+                <tracks>
+                    <track>
+                        <id>26</id>
+                        <name>Ace of Spades</name>
+                        <miliseconds>148200</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Ace_of_spades.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Heavy metal</genre>
+                        <composer>Lemmy Kilmister</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>27</id>
+            <nom>Motorhead</nom>
+            <album>
+                <id>27</id>
+                <title>Ace of Spades</title>
+                <tracks>
+                    <track>
+                        <id>27</id>
+                        <name>Love Me Like A Reptile</name>
+                        <miliseconds>148200</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Love_me_like_reptile.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Heavy metal</genre>
+                        <composer>Lemmy Kilmister</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
     </artists>
 </musica>
+
+
+
+
