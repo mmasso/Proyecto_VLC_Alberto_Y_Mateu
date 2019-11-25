@@ -97,23 +97,6 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                 </tracks>
             </album>
         </artist>
-<<<<<<< HEAD
-        <artist>
-            <id>28</id>
-            <nom>RADWIMPS</nom>
-            <album>
-                <id>28</id>
-                <title>Your name</title>
-                <tracks>
-                    <track>
-                        <id>28</id>
-                        <name>Zenzenzense</name>
-                        <miliseconds>286000</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Zenzenzense.mp3</path>
-                        <media_types>mp3</media_types>
-                        <genre>Pop Punk</genre>
-                        <composer>Yojiro Noda</composer>
-=======
         <artist> <!-- ALBERTO-->
             <id>6</id>
             <nom>Terror Reid</nom>
@@ -129,28 +112,10 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                         <media_types>mp3</media_types>
                         <genre>Hip hop</genre>
                         <composer>Getter</composer>
->>>>>>> c59a9f03b42d97bace90dbdb5e71b422bba5ddae
                     </track>
                 </tracks>
             </album>
         </artist>
-<<<<<<< HEAD
-        <artist>
-            <id>29</id>
-            <nom>Rosalira</nom>
-            <album>
-                <id>29</id>
-                <title>Con altura</title>
-                <tracks>
-                    <track>
-                        <id>29</id>
-                        <name>Con altura</name>
-                        <miliseconds>145200</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Con_altura.mp3</path>
-                        <media_types>mp3</media_types>
-                        <genre>Reggaeton</genre>
-                        <composer>Rosalia</composer>
-=======
         <artist> 
             <id>7</id>
             <nom>Terror Reid</nom>
@@ -166,95 +131,10 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                         <media_types>mp3</media_types>
                         <genre>Hip hop</genre>
                         <composer>Getter</composer>
->>>>>>> c59a9f03b42d97bace90dbdb5e71b422bba5ddae
                     </track>
                 </tracks>
             </album>
         </artist>
-<<<<<<< HEAD
-        <artist>
-            <id>30</id>
-            <nom>RELS B</nom>
-            <album>
-                <id>30</id>
-                <title>La Latina</title>
-                <tracks>
-                    <track>
-                        <id>30</id>
-                        <name>La Latina</name>
-                        <miliseconds>180000</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\La_latina.mp3</path>
-                        <media_types>mp3</media_types>
-                        <genre>Pop</genre>
-                        <composer>Rels B</composer>
-                    </track>
-                </tracks>
-            </album>
-            <album>
-                <id>31</id>
-                <title>Flakk Daniel's Lp</title>
-                <tracks>
-                    <track>
-                        <id>31</id>
-                        <name>Love it</name>
-                        <miliseconds>182000</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Love_it.mp3</path>
-                        <media_types>mp3</media_types>
-                        <genre>Hip hop</genre>
-                        <composer>Rels B</composer>
-                    </track>
-                    <track>
-                        <id>32</id>
-                        <name>Es Mejor</name>
-                        <miliseconds>179000</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Es_mejor.mp3</path>
-                        <media_types>mp3</media_types>
-                        <genre>Hip hop</genre>
-                        <composer>Rels B</composer>
-                    </track>                    
-                </tracks>
-            </album>
-        </artist>
-        <artist>
-            <id>31</id>
-            <nom>Ed Sheeran</nom>
-            <album>
-                <id>32</id>
-                <title>Beautiful People</title>
-                <tracks>
-                    <track>
-                        <id>33</id>
-                        <name>Beautiful People</name>
-                        <miliseconds>190000</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Beautiful_people.mp3</path>
-                        <media_types>mp3</media_types>
-                        <genre>Pop</genre>
-                        <composer>Ed Sheeran</composer>
-                    </track>
-                </tracks>
-            </album>
-            <album>
-                <id>33</id>
-                <title>Divide</title>
-                <tracks>
-                    <track>
-                        <id>34</id>
-                        <name>Perfect</name>
-                        <miliseconds>270000</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Perfect.mp3</path>
-                        <media_types>mp3</media_types>
-                        <genre>Balada</genre>
-                        <composer>Ed Sheeran</composer>
-                    </track>
-                    <track>
-                        <id>35</id>
-                        <name>Galway Girl</name>
-                        <miliseconds>191000</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Galway_girl.mp3</path>
-                        <media_types>mp3</media_types>
-                        <genre>Folk irlandes</genre>
-                        <composer>Ed Sheeran</composer>
-=======
         <artist> 
             <id>8</id>
             <nom>Terror Reid</nom>
@@ -352,46 +232,10 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                         <composer>Josh kiszka</composer>
                         <composer>Jake kiszka</composer>
                         <composer>Samuel kiszka</composer>
->>>>>>> c59a9f03b42d97bace90dbdb5e71b422bba5ddae
                     </track>
                 </tracks>
             </album>
         </artist>
-<<<<<<< HEAD
-        <artist>
-            <id>32</id>
-            <nom>Frank Sinatra</nom>
-            <album>
-                <id>34</id>
-                <title>I've got you under my skin</title>
-                <tracks>
-                    <track>
-                        <id>36</id>
-                        <name>You make me feel so young</name>
-                        <miliseconds>153000</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\You_make_me_feel_so_young.mp3</path>
-                        <media_types>mp3</media_types>
-                        <genre>Jazz</genre>
-                        <composer>Josef Myrow</composer>
-                    </track>
-                    <track>
-                        <id>37</id>
-                        <name>I've got you under my skin</name>
-                        <miliseconds>204600</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Ive_got_you_under_my_skin.mp3</path>
-                        <media_types>mp3</media_types>
-                        <genre>Swing</genre>
-                        <composer>Cole Porter</composer>
-                    </track>
-                    <track>
-                        <id>38</id>
-                        <name>Too Marvelous for words</name>
-                        <miliseconds>134400</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Too_marvelous_for_words.mp3</path>
-                        <media_types>mp3</media_types>
-                        <genre>Jazz</genre>
-                        <composer>Richard Whiting</composer>
-=======
          <artist>
             <id>13</id>
             <nom>Greta Van Fleet</nom>
@@ -449,53 +293,11 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                         <media_types>mp3</media_types>
                         <genre>Rock alternativo</genre>
                         <composer>Anthony kiedis</composer>
->>>>>>> c59a9f03b42d97bace90dbdb5e71b422bba5ddae
                     </track>
                 </tracks>
             </album>
         </artist>
         <artist>
-<<<<<<< HEAD
-            <id>33</id>
-            <nom>Porter Robinson</nom>
-            <album>
-                <id>35</id>
-                <title>Worlds</title>
-                <tracks>
-                    <track>
-                        <id>39</id>
-                        <name>Divinity</name>
-                        <miliseconds>360000</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Divinity.mp3</path>
-                        <media_types>mp3</media_types>
-                        <genre>Electronica</genre>
-                        <composer>Porter Robinson</composer>
-                    </track>
-                    <track>
-                        <id>40</id>
-                        <name>Sad machine</name>
-                        <miliseconds>340000</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Sad_machine.mp3</path>
-                        <media_types>mp3</media_types>
-                        <genre>Electronica</genre>
-                        <composer>Porter Robinson</composer>
-                    </track>
-                </tracks>
-            </album>
-            <album>
-                <id>36</id>
-                <title>Shelter</title>
-                <tracks>
-                    <track>
-                        <id>41</id>
-                        <name>Shelter</name>
-                        <miliseconds>360000</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Shelter.mp3</path>
-                        <media_types>mp3</media_types>
-                        <genre>Electronica</genre>
-                        <composer>Madeon</composer>
-                    </track>>
-=======
             <id>16</id>
             <nom>Red Hot Chili Peppers</nom>
             <album>
@@ -549,37 +351,10 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                         <genre>Rock alternativo</genre>
                         <composer>Anthony kiedis</composer>
                     </track>
->>>>>>> c59a9f03b42d97bace90dbdb5e71b422bba5ddae
                 </tracks>
             </album>
         </artist>
         <artist>
-<<<<<<< HEAD
-            <id>34</id>
-            <nom>Antonio Molina</nom>
-            <album>
-                <id>37</id>
-                <title>Antonio Molina Y el Cine</title>
-                <tracks>
-                    <track>
-                        <id>42</id>
-                        <name>Soy minero</name>
-                        <miliseconds>195600</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Soy_minero.mp3</path>
-                        <media_types>mp3</media_types>
-                        <genre>Copla</genre>
-                        <composer>Daniel Montorio</composer>
-                        <composer>Ramon Perello</composer>
-                    </track>
-                    <track>
-                        <id>43</id>
-                        <name>Soy un pobre presidiario</name>
-                        <miliseconds>183000</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Soy_un_pobre_presidiario.mp3</path>
-                        <media_types>mp3</media_types>
-                        <genre>Copla</genre>
-                        <composer>Rafael de Leon</composer>
-=======
             <id>19</id>
             <nom>Nirvana</nom>
             <album>
@@ -613,37 +388,11 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                         <media_types>mp3</media_types>
                         <genre>Rock alternativo</genre>
                         <composer>Kurt Cobain</composer>
->>>>>>> c59a9f03b42d97bace90dbdb5e71b422bba5ddae
                     </track>
                 </tracks>
             </album>
         </artist>
         <artist>
-<<<<<<< HEAD
-            <id>35</id>
-            <nom>Bob Seger</nom>
-            <album>
-                <id>38</id>
-                <title>Stranger In Town</title>
-                <tracks>
-                    <track>
-                        <id>44</id>
-                        <name>Old time Rock and Roll</name>
-                        <miliseconds>200000</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Old_time_rock_and_roll.mp3</path>
-                        <media_types>mp3</media_types>
-                        <genre>Rock</genre>
-                        <composer>George Jackson</composer>
-                    </track>
-                    <track>
-                        <id>45</id>
-                        <name>Still the Same</name>
-                        <miliseconds>194400</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Still_the_same.mp3</path>
-                        <media_types>mp3</media_types>
-                        <genre>Rock</genre>
-                        <composer>Bob Seger</composer>
-=======
             <id>21</id>
             <nom>Nirvana</nom>
             <album>
@@ -678,37 +427,11 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                         <genre>Punk</genre>
                         <genre>Rock alternativo</genre>
                         <composer>Billie Joe Armstrong</composer>
->>>>>>> c59a9f03b42d97bace90dbdb5e71b422bba5ddae
                     </track>
                 </tracks>
             </album>
         </artist>
         <artist>
-<<<<<<< HEAD
-            <id>36</id>
-            <nom>Snoop Dogg</nom>
-            <album>
-                <id>39</id>
-                <title>Doggystyle</title>
-                <tracks>
-                    <track>
-                        <id>46</id>
-                        <name>Who am I</name>
-                        <miliseconds>243600</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Who_am_i.mp3</path>
-                        <media_types>mp3</media_types>
-                        <genre>Gangsta rap</genre>
-                        <composer>Andre Young</composer>
-                    </track>
-                    <track>
-                        <id>47</id>
-                        <name>Serial Killa</name>
-                        <miliseconds>199800</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Serial_killa.mp3</path>
-                        <media_types>mp3</media_types>
-                        <genre>Gangsta rap</genre>
-                        <composer>Broadus</composer>
-=======
             <id>23</id>
             <nom>Green Day</nom>
             <album>
@@ -744,50 +467,10 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                         <genre>Punk</genre>
                         <genre>Rock alternativo</genre>
                         <composer>Billie Joe Armstrong</composer>
->>>>>>> c59a9f03b42d97bace90dbdb5e71b422bba5ddae
                     </track>
                 </tracks>
             </album>
         </artist>
-<<<<<<< HEAD
-       <artist>
-            <id>37</id>
-            <nom>Jake Bugg</nom>
-            <album>
-                <id>40</id>
-                <title>Jake Bugg</title>
-                <tracks>
-                    <track>
-                        <id>48</id>
-                        <name>Lightning Bolt</name>
-                        <miliseconds>135000</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Lightning_bolt.mp3</path>
-                        <media_types>mp3</media_types>
-                        <genre>Folk Rock</genre>
-                        <composer>Iain Archer</composer>
-                    </track>
-                    <track>
-                        <id>49</id>
-                        <name>Two fingers</name>
-                        <miliseconds>189600</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Two_fingers.mp3</path>
-                        <media_types>mp3</media_types>
-                        <genre>Folk Rock</genre>
-                        <composer>Iain Archer</composer>
-                    </track>
-                    <track>
-                        <id>50</id>
-                        <name>Taste It</name>
-                        <miliseconds>135000</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Taste_it.mp3</path>
-                        <media_types>mp3</media_types>
-                        <genre>Folk Rock</genre>
-                        <composer>Iain Archer</composer>
-                    </track>
-                </tracks>
-            </album>
-        </artist>                
-=======
         <artist>
             <id>25</id>
             <nom>Pantera</nom>
@@ -845,7 +528,334 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                 </tracks>
             </album>
         </artist>
->>>>>>> c59a9f03b42d97bace90dbdb5e71b422bba5ddae
+        <artist>
+            <id>28</id>
+            <nom>RADWIMPS</nom>
+            <album>
+                <id>28</id>
+                <title>Your name</title>
+                <tracks>
+                    <track>
+                        <id>28</id>
+                        <name>Zenzenzense</name>
+                        <miliseconds>286000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Zenzenzense.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Pop Punk</genre>
+                        <composer>Yojiro Noda</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>29</id>
+            <nom>Rosalira</nom>
+            <album>
+                <id>29</id>
+                <title>Con altura</title>
+                <tracks>
+                    <track>
+                        <id>29</id>
+                        <name>Con altura</name>
+                        <miliseconds>145200</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Con_altura.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Reggaeton</genre>
+                        <composer>Rosalia</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>30</id>
+            <nom>RELS B</nom>
+            <album>
+                <id>30</id>
+                <title>La Latina</title>
+                <tracks>
+                    <track>
+                        <id>30</id>
+                        <name>La Latina</name>
+                        <miliseconds>180000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\La_latina.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Pop</genre>
+                        <composer>Rels B</composer>
+                    </track>
+                </tracks>
+            </album>
+            <album>
+                <id>31</id>
+                <title>Flakk Daniel's Lp</title>
+                <tracks>
+                    <track>
+                        <id>31</id>
+                        <name>Love it</name>
+                        <miliseconds>182000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Love_it.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Hip hop</genre>
+                        <composer>Rels B</composer>
+                    </track>
+                    <track>
+                        <id>32</id>
+                        <name>Es Mejor</name>
+                        <miliseconds>179000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Es_mejor.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Hip hop</genre>
+                        <composer>Rels B</composer>
+                    </track>                    
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>31</id>
+            <nom>Ed Sheeran</nom>
+            <album>
+                <id>32</id>
+                <title>Beautiful People</title>
+                <tracks>
+                    <track>
+                        <id>33</id>
+                        <name>Beautiful People</name>
+                        <miliseconds>190000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Beautiful_people.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Pop</genre>
+                        <composer>Ed Sheeran</composer>
+                    </track>
+                </tracks>
+            </album>
+            <album>
+                <id>33</id>
+                <title>Divide</title>
+                <tracks>
+                    <track>
+                        <id>34</id>
+                        <name>Perfect</name>
+                        <miliseconds>270000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Perfect.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Balada</genre>
+                        <composer>Ed Sheeran</composer>
+                    </track>
+                    <track>
+                        <id>35</id>
+                        <name>Galway Girl</name>
+                        <miliseconds>191000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Galway_girl.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Folk irlandes</genre>
+                        <composer>Ed Sheeran</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>32</id>
+            <nom>Frank Sinatra</nom>
+            <album>
+                <id>34</id>
+                <title>I've got you under my skin</title>
+                <tracks>
+                    <track>
+                        <id>36</id>
+                        <name>You make me feel so young</name>
+                        <miliseconds>153000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\You_make_me_feel_so_young.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Jazz</genre>
+                        <composer>Josef Myrow</composer>
+                    </track>
+                    <track>
+                        <id>37</id>
+                        <name>I've got you under my skin</name>
+                        <miliseconds>204600</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Ive_got_you_under_my_skin.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Swing</genre>
+                        <composer>Cole Porter</composer>
+                    </track>
+                    <track>
+                        <id>38</id>
+                        <name>Too Marvelous for words</name>
+                        <miliseconds>134400</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Too_marvelous_for_words.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Jazz</genre>
+                        <composer>Richard Whiting</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>33</id>
+            <nom>Porter Robinson</nom>
+            <album>
+                <id>35</id>
+                <title>Worlds</title>
+                <tracks>
+                    <track>
+                        <id>39</id>
+                        <name>Divinity</name>
+                        <miliseconds>360000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Divinity.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Electronica</genre>
+                        <composer>Porter Robinson</composer>
+                    </track>
+                    <track>
+                        <id>40</id>
+                        <name>Sad machine</name>
+                        <miliseconds>340000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Sad_machine.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Electronica</genre>
+                        <composer>Porter Robinson</composer>
+                    </track>
+                </tracks>
+            </album>
+            <album>
+                <id>36</id>
+                <title>Shelter</title>
+                <tracks>
+                    <track>
+                        <id>41</id>
+                        <name>Shelter</name>
+                        <miliseconds>360000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Shelter.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Electronica</genre>
+                        <composer>Madeon</composer>
+                    </track>>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>34</id>
+            <nom>Antonio Molina</nom>
+            <album>
+                <id>37</id>
+                <title>Antonio Molina Y el Cine</title>
+                <tracks>
+                    <track>
+                        <id>42</id>
+                        <name>Soy minero</name>
+                        <miliseconds>195600</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Soy_minero.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Copla</genre>
+                        <composer>Daniel Montorio</composer>
+                        <composer>Ramon Perello</composer>
+                    </track>
+                    <track>
+                        <id>43</id>
+                        <name>Soy un pobre presidiario</name>
+                        <miliseconds>183000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Soy_un_pobre_presidiario.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Copla</genre>
+                        <composer>Rafael de Leon</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>35</id>
+            <nom>Bob Seger</nom>
+            <album>
+                <id>38</id>
+                <title>Stranger In Town</title>
+                <tracks>
+                    <track>
+                        <id>44</id>
+                        <name>Old time Rock and Roll</name>
+                        <miliseconds>200000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Old_time_rock_and_roll.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Rock</genre>
+                        <composer>George Jackson</composer>
+                    </track>
+                    <track>
+                        <id>45</id>
+                        <name>Still the Same</name>
+                        <miliseconds>194400</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Still_the_same.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Rock</genre>
+                        <composer>Bob Seger</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>36</id>
+            <nom>Snoop Dogg</nom>
+            <album>
+                <id>39</id>
+                <title>Doggystyle</title>
+                <tracks>
+                    <track>
+                        <id>46</id>
+                        <name>Who am I</name>
+                        <miliseconds>243600</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Who_am_i.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Gangsta rap</genre>
+                        <composer>Andre Young</composer>
+                    </track>
+                    <track>
+                        <id>47</id>
+                        <name>Serial Killa</name>
+                        <miliseconds>199800</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Serial_killa.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Gangsta rap</genre>
+                        <composer>Broadus</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>37</id>
+            <nom>Jake Bugg</nom>
+            <album>
+                <id>40</id>
+                <title>Jake Bugg</title>
+                <tracks>
+                    <track>
+                        <id>48</id>
+                        <name>Lightning Bolt</name>
+                        <miliseconds>135000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Lightning_bolt.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Folk Rock</genre>
+                        <composer>Iain Archer</composer>
+                    </track>
+                    <track>
+                        <id>49</id>
+                        <name>Two fingers</name>
+                        <miliseconds>189600</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Two_fingers.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Folk Rock</genre>
+                        <composer>Iain Archer</composer>
+                    </track>
+                    <track>
+                        <id>50</id>
+                        <name>Taste It</name>
+                        <miliseconds>135000</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Taste_it.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Folk Rock</genre>
+                        <composer>Iain Archer</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>                
+    </artists>
+</musica>
     </artists>
 </musica>
 
