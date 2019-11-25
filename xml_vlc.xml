@@ -35,7 +35,7 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                         <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Because.mp3</path>
                         <media_types>mp3</media_types>
                         <genre>Rock Pop</genre>
-                        <composer>Jhon Lennon</composer> 
+                        <composer>John Lennon</composer> 
                     </track>
                 </tracks>
             </album>
@@ -97,7 +97,7 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                 </tracks>
             </album>
         </artist>
-        <artist> <!-- ALBERTO-->
+        <artist>
             <id>6</id>
             <nom>Terror Reid</nom>
             <album>
@@ -136,13 +136,13 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
             </album>
             <album>
                 <id>8</id>
-                <title>Buried Alive feat Eliozie</title>
+                <title>Buried Alive</title>
                 <tracks>
                     <track>
                         <id>8</id>
-                        <name>Buried Alive feat. Eliozie</name>
+                        <name>Buried Alive</name>
                         <miliseconds>181800</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Buried_alive_feat_eliozie.mp3</path> <!-- el feat lo ponemos sin el . de feat.-->
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Buried_alive.mp3</path>
                         <media_types>mp3</media_types>
                         <genre>Hip hop</genre>
                         <composer>Getter</composer>
@@ -798,8 +798,6 @@ xsi:noNamespaceSchemaLocation="musica.xsd">
                 </tracks>
             </album>
         </artist>                
-    </artists>
-</musica>
     </artists>
 </musica>
 
