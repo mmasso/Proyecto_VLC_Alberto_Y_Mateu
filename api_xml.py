@@ -1,6 +1,6 @@
 import xml.etree.ElementTree as ET
 
-tree = ET.parse('xml_vlc.xml')
+tree = ET.parse('xml_vlc.xml') # crear variable libreria_canciones (por ejemplo sin comillas) HACER MAIN.
 root = tree.getroot()
 
 def get_all_nom(tree):
@@ -21,3 +21,5 @@ def get_all_albums(tree):
                 print(titulo)
 
 print(get_all_albums(tree))
+
+# en vez de parsear el documento xml_vlc deberia servir para cualquier xml
