@@ -40,7 +40,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                 </tracks>
             </album>
         </artist>
-        <artist>>
+        <artist>
             <id>3</id>
             <nom>Metallica</nom>
             <album>

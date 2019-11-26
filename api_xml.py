@@ -23,3 +23,5 @@ def get_all_albums(tree):
 print(get_all_albums(tree))
 
 # en vez de parsear el documento xml_vlc deberia servir para cualquier xml
+# acceder a nombre artista, titulo del album, titulo cancion, el path de la cancion
+# despues de conseguir cada cosa, creamos diccionario donde este cada cosa ordenanda segun el ejemplo
