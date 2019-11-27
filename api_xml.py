@@ -35,18 +35,11 @@ def get_all_composers(root):
         print(composer.text)
 
 
-def getlocationby(root):
-    parent = root.getparent()
-    location = (parent.tag).iter('location')
-    location = location.text
-    return location
-
-
 def hacerdiccionario(root):
     diccionario = {}
     for artist in root.iter('artist'):
         nomArtist = artist.findtext('nom')
-        for album in artist.iter('title'):
+        for album in artist.iter('album'):
             titleAlbum = album.findtext('title')
             for track in album.iter('track'):
                 trackName = track.findtext('name')
@@ -58,10 +51,10 @@ def hacerdiccionario(root):
                                           'album': titleAlbum,
                                           'genero': genre,
                                           'compositor': composer}
+    assert diccionario != {}
     return diccionario
 
 
 print(hacerdiccionario(root))
 
 # en vez de parsear el documento xml_vlc deberia servir para cualquier xml
-
