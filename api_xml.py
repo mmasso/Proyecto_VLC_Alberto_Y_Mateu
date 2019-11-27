@@ -37,17 +37,28 @@ def get_all_composers(root):
 
 def getlocationby(root):
     parent = root.getparent()
-    location = parent.iter('location')
+    location = (parent.tag).iter('location')
     location = location.text
     return location
 
 
 def hacerdiccionario(root):
     diccionario = {}
-    for name in root.iter('name'):
-        name = name.text
-        diccionario[name] = {'localizacion': getlocationby(name)}
-        return diccionario
+    for artist in root.iter('artist'):
+        nomArtist = artist.findtext('nom')
+        for album in artist.iter('title'):
+            titleAlbum = album.findtext('title')
+            for track in album.iter('track'):
+                trackName = track.findtext('name')
+                path = track.findtext('path')
+                genre = track.findtext('genre')
+                composer = track.findtext('composer')
+                diccionario[trackName] = {'localizacion': path,
+                                          'artista': nomArtist,
+                                          'album': titleAlbum,
+                                          'genero': genre,
+                                          'compositor': composer}
+    return diccionario
 
 
 print(hacerdiccionario(root))
