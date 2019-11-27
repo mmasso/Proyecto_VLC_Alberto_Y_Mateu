@@ -32,10 +32,25 @@ def get_all_genres(root):
 
 def get_all_composers(root):
     for composer in root.iter('composer'):
-        print (composer.text)
+        print(composer.text)
 
 
-get_all_composers(root)
+def getlocationby(root):
+    parent = root.getparent()
+    location = parent.iter('location')
+    location = location.text
+    return location
+
+
+def hacerdiccionario(root):
+    diccionario = {}
+    for name in root.iter('name'):
+        name = name.text
+        diccionario[name] = {'localizacion': getlocationby(name)}
+        return diccionario
+
+
+print(hacerdiccionario(root))
 
 # en vez de parsear el documento xml_vlc deberia servir para cualquier xml
 
