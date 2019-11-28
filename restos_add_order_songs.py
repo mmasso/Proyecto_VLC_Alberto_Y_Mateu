@@ -1,4 +1,5 @@
-from api_xml import diccionario
+from parser_xml import diccionario
+
 
 def add_order_dict(diccionario):
     assert isinstance(diccionario, dict)
