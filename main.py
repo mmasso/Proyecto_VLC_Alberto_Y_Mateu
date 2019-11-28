@@ -9,3 +9,7 @@ def main(hacerdiccionario):
     lista_paths_aleatorios = dic_lista_paths(dic_canciones_orden_aleatorio)
     comando_para_vlc = lista_a_vlc(lista_paths_aleatorios)
     return comando_para_vlc
+
+if __name__ == "__main__":
+    main(hacerdiccionario(root))
+    
