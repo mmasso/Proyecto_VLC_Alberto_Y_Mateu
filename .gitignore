@@ -5,3 +5,6 @@ __pycache__/diccionario_prueba.cpython-37.pyc
 __pycache__/api_xml.cpython-37.pyc
 __pycache__/add_order_songs.cpython-37.pyc
 .vscode/settings.json
+__pycache__/parser_xml.cpython-37.pyc
+__pycache__/paths_para_vlc.cpython-37.pyc
+__pycache__/random_assign.cpython-37.pyc
