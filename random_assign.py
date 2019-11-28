@@ -1,12 +1,22 @@
-from add_order_songs import order_canciones
-from random import randint
+from api_xml import diccionario
+from random import choice
 
-def random_assign(order_canciones):
-    numerosRandom = []
-    for key in order_canciones:
-        num_random = randint(1, len(order_canciones))
+def random_assign(diccionario):
+    diccionarioRandomizado = diccionario.copy()
+    contador_order = 0
+    while contador_order < len(diccionarioRandomizado):
+        randomSong = choice(list(diccionario))
+        '''if diccionario[randomSong]['artista']
+        and diccionario[randomSong]['album']
+        and diccionario[randomSong]['genero']
+        and diccionario[randomSong]['compositor'] no coincide con el anterior:'''
+        contador_order = contador_order + 1
+        diccionarioRandomizado[randomSong]["order"] = contador_order
+        diccionario.pop(randomSong)
+    return (diccionarioRandomizado)
 
-        numerosRandom.append(num_random)
-    return numerosRandom
+print(random_assign(diccionario))
 
-print(random_assign(order_canciones))
+
+'''        listaVLC = []
+        listaVLC.append(diccionario[randomSong]['localizacion'])'''
