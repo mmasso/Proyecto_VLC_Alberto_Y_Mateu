@@ -54,8 +54,7 @@ def hacerdiccionario(root):
     assert diccionario != {}
     return diccionario
 
-
-print(hacerdiccionario(root))
+diccionario = hacerdiccionario(root)
 
 # en vez de parsear el documento xml_vlc deberia servir para cualquier xml
 # acceder a nombre artista, titulo del album, titulo cancion, el path de la cancion
