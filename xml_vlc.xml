@@ -179,14 +179,19 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <composer>Jake kiszka</composer>
                         <composer>Samuel kiszka</composer>
                     </track>
-                </tracks>
-            </album>
-            <album>
-                <id>11</id>
-                <title>Black Smoke Rising</title> 
-                <tracks>
                     <track>
                         <id>11</id>
+                        <name>Flower Power</name>
+                        <miliseconds>307800</miliseconds>
+                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Flower_power.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Hard rock</genre>
+                        <composer>Josh kiszka</composer>
+                        <composer>Jake kiszka</composer>
+                        <composer>Samuel kiszka</composer>
+                    </track>
+                    <track>
+                        <id>12</id>
                         <name>Highway Tune</name>
                         <miliseconds>180000</miliseconds>
                         <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Highway_tune.mp3</path>
@@ -199,11 +204,11 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                 </tracks>
             </album>
             <album>
-                <id>12</id>
+                <id>11</id>
                 <title>Anthem of the Peaceful Army</title>
                 <tracks>
                     <track>
-                        <id>12</id>
+                        <id>13</id>
                         <name>When The Curtain Falls</name>
                         <miliseconds>246600</miliseconds>
                         <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\When_the_curtain_falls.mp3</path>
@@ -216,31 +221,14 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                 </tracks>
             </album>
             <album>
-                <id>13</id>
+                <id>12</id>
                 <title>From the Fires</title>
                 <tracks>
                     <track>
-                        <id>13</id>
+                        <id>14</id>
                         <name>Talk on the Street</name>
                         <miliseconds>244800</miliseconds>
                         <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Talk_on_the_street.mp3</path>
-                        <media_types>mp3</media_types>
-                        <genre>Hard rock</genre>
-                        <composer>Josh kiszka</composer>
-                        <composer>Jake kiszka</composer>
-                        <composer>Samuel kiszka</composer>
-                    </track>
-                </tracks>
-            </album>
-            <album>
-                <id>14</id>
-                <title>Black Smoke Rising</title>
-                <tracks>
-                    <track>
-                        <id>14</id>
-                        <name>Flower Power</name>
-                        <miliseconds>307800</miliseconds>
-                        <path>C:\USERS\YO\DESKTOP\CANCIONES\LAS_QUE_ME_DISGUSTAN\Flower_power.mp3</path>
                         <media_types>mp3</media_types>
                         <genre>Hard rock</genre>
                         <composer>Josh kiszka</composer>
@@ -254,7 +242,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
             <id>8</id>
             <nom>Red Hot Chili Peppers</nom>
             <album>
-                <id>15</id>
+                <id>13</id>
                 <title>The Getaway</title>
                 <tracks>
                     <track>
@@ -269,7 +257,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                 </tracks>
             </album>
             <album>
-                <id>16</id>
+                <id>14</id>
                 <title>Californication</title>
                 <tracks>
                     <track>
@@ -281,12 +269,6 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <genre>Rock alternativo</genre>
                         <composer>Anthony kiedis</composer>
                     </track>
-                </tracks>
-            </album>
-            <album>
-                <id>17</id>
-                <title>Californication</title>
-                <tracks>
                     <track>
                         <id>17</id>
                         <name>Otherside</name>
@@ -299,7 +281,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                 </tracks>
             </album>
             <album>
-                <id>18</id>
+                <id>15</id>
                 <title>Stadium Arcadium</title>
                 <tracks>
                     <track>
@@ -318,7 +300,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
             <id>9</id>
             <nom>Nirvana</nom>
             <album>
-                <id>19</id>
+                <id>16</id>
                 <title>Nevermind</title>
                 <tracks>
                     <track>
@@ -330,12 +312,6 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <genre>Rock alternativo</genre>
                         <composer>Kurt Cobain</composer>
                     </track>
-                </tracks>
-            </album>
-            <album>
-                <id>20</id>
-                <title>Nevermind</title>
-                <tracks>
                     <track>
                         <id>20</id>
                         <name>Come as You Are</name>
@@ -345,12 +321,6 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <genre>Rock alternativo</genre>
                         <composer>Kurt Cobain</composer>
                     </track>
-                </tracks>
-            </album>
-            <album>
-                <id>21</id>
-                <title>Nevermind</title>
-                <tracks>
                     <track>
                         <id>21</id>
                         <name>Lithium</name>
@@ -367,7 +337,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
             <id>10</id>
             <nom>Green Day</nom>
             <album>
-                <id>22</id>
+                <id>17</id>
                 <title>Father of All Motherfuckers</title>
                 <tracks>
                     <track>
@@ -383,7 +353,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                 </tracks>
             </album>
             <album>
-                <id>23</id>
+                <id>18</id>
                 <title>American Idiot</title>
                 <tracks>
                     <track>
@@ -396,12 +366,6 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <genre>Rock alternativo</genre>
                         <composer>Billie Joe Armstrong</composer>
                     </track>
-                </tracks>
-            </album>
-            <album>
-                <id>24</id>
-                <title>American Idiot</title>
-                <tracks>
                     <track>
                         <id>24</id>
                         <name>American Idiot</name>
@@ -419,7 +383,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
             <id>11</id>
             <nom>Pantera</nom>
             <album>
-                <id>25</id>
+                <id>19</id>
                 <title>Vulgar Display of Power</title>
                 <tracks>
                     <track>
@@ -438,7 +402,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
             <id>12</id>
             <nom>Motorhead</nom>
             <album>
-                <id>26</id>
+                <id>20</id>
                 <title>Ace of Spades</title>
                 <tracks>
                     <track>
@@ -450,12 +414,6 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <genre>Heavy metal</genre>
                         <composer>Lemmy Kilmister</composer>
                     </track>
-                </tracks>
-            </album>
-            <album>
-                <id>27</id>
-                <title>Ace of Spades</title>
-                <tracks>
                     <track>
                         <id>27</id>
                         <name>Love Me Like A Reptile</name>
@@ -472,7 +430,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
             <id>13</id>
             <nom>RADWIMPS</nom>
             <album>
-                <id>28</id>
+                <id>21</id>
                 <title>Your name</title>
                 <tracks>
                     <track>
@@ -491,7 +449,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
             <id>14</id>
             <nom>Rosalia</nom>
             <album>
-                <id>29</id>
+                <id>22</id>
                 <title>Con altura</title>
                 <tracks>
                     <track>
@@ -510,7 +468,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
             <id>15</id>
             <nom>RELS B</nom>
             <album>
-                <id>30</id>
+                <id>23</id>
                 <title>La Latina</title>
                 <tracks>
                     <track>
@@ -525,7 +483,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                 </tracks>
             </album>
             <album>
-                <id>31</id>
+                <id>24</id>
                 <title>Flakk Daniel's Lp</title>
                 <tracks>
                     <track>
@@ -553,7 +511,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
             <id>16</id>
             <nom>Ed Sheeran</nom>
             <album>
-                <id>32</id>
+                <id>25</id>
                 <title>Beautiful People</title>
                 <tracks>
                     <track>
@@ -568,7 +526,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                 </tracks>
             </album>
             <album>
-                <id>33</id>
+                <id>26</id>
                 <title>Divide</title>
                 <tracks>
                     <track>
@@ -596,7 +554,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
             <id>17</id>
             <nom>Frank Sinatra</nom>
             <album>
-                <id>34</id>
+                <id>27</id>
                 <title>I've got you under my skin</title>
                 <tracks>
                     <track>
@@ -633,7 +591,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
             <id>18</id>
             <nom>Porter Robinson</nom>
             <album>
-                <id>35</id>
+                <id>28</id>
                 <title>Worlds</title>
                 <tracks>
                     <track>
@@ -657,7 +615,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                 </tracks>
             </album>
             <album>
-                <id>36</id>
+                <id>29</id>
                 <title>Shelter</title>
                 <tracks>
                     <track>
@@ -676,7 +634,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
             <id>19</id>
             <nom>Antonio Molina</nom>
             <album>
-                <id>37</id>
+                <id>30</id>
                 <title>Antonio Molina Y el Cine</title>
                 <tracks>
                     <track>
@@ -705,7 +663,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
             <id>20</id>
             <nom>Bob Seger</nom>
             <album>
-                <id>38</id>
+                <id>31</id>
                 <title>Stranger In Town</title>
                 <tracks>
                     <track>
@@ -733,7 +691,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
             <id>21</id>
             <nom>Snoop Dogg</nom>
             <album>
-                <id>39</id>
+                <id>32</id>
                 <title>Doggystyle</title>
                 <tracks>
                     <track>
@@ -761,7 +719,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
             <id>22</id>
             <nom>Jake Bugg</nom>
             <album>
-                <id>40</id>
+                <id>33</id>
                 <title>Jake Bugg</title>
                 <tracks>
                     <track>
