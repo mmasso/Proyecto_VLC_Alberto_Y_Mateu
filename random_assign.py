@@ -1,10 +1,12 @@
-from diccionario_prueba import libreria
+from add_order_songs import order_canciones
 from random import randint
 
-def random_assign(ord_libreria):
-    for title in ord_libreria:
-        num_random = randint(1, 50)  # pendiente a poner la leng max de lista 
-        ## while len(ord_libreria)!=len()
-    
+def random_assign(order_canciones):
+    numerosRandom = []
+    for key in order_canciones:
+        num_random = randint(1, len(order_canciones))
 
-# Falta añadir aquí un assert que mire la longitud de la lista.
+        numerosRandom.append(num_random)
+    return numerosRandom
+
+print(random_assign(order_canciones))

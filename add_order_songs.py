@@ -10,5 +10,4 @@ def add_order_dict(diccionario):
     assert ord_diccionario != 0
     return ord_diccionario
 
-
-print(add_order_dict(diccionario))
+order_canciones = add_order_dict(diccionario) 
