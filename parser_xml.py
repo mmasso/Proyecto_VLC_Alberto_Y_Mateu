@@ -1,11 +1,9 @@
 import xml.etree.ElementTree as ET
 
 
-tree = ET.parse('xml_vlc.xml') # crear variable libreria_canciones (por ejemplo sin comillas) HACER MAIN. 
-root = tree.getroot()
-
-
-def hacerdiccionario(root):
+def hacerdiccionario(rutaXml):
+    tree = ET.parse(rutaXml)
+    root = tree.getroot()
     diccionario = {}
     for artist in root.iter('artist'):
         nomArtist = artist.findtext('nom')
