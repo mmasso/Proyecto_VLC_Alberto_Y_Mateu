@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<musica xml:lang="es" xmlns:xsi="http:// www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
+    <artists>
+        <artist>
+            <id>1</id>
+            <nom>Slipknot</nom>
+            <album>
+                <id>1</id>
+                <title>We are not your kind</title>
+                <tracks>
+                    <track>
+                        <id>1</id>
+                        <name>Insert coin</name>
+                        <miliseconds>99000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Insert_coin.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Alternative Metal</genre>
+                        <composer>Paul Gray</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>2</id>
+            <nom>The Beatles</nom>
+            <album>
+                <id>2</id>
+                <title>Love</title>
+                <tracks>
+                    <track>
+                        <id>2</id>
+                        <name>Because</name>
+                        <miliseconds>165000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Because.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Rock Pop</genre>
+                        <composer>John Lennon</composer> 
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>3</id>
+            <nom>Metallica</nom>
+            <album>
+                <id>3</id>
+                <title>Master of Puppets</title>
+                <tracks>
+                    <track>
+                        <id>3</id>
+                        <name>Battery</name>
+                        <miliseconds>312000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Battery.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Trash Metal</genre>
+                        <composer>Lars Ulrich</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>4</id>
+            <nom>ACDC</nom>
+            <album>
+                <id>4</id>
+                <title>Back in Black</title>
+                <tracks>
+                    <track>
+                        <id>4</id>
+                        <name>Back in Black</name>
+                        <miliseconds>255000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Back_in_black.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Hard Rock</genre>
+                        <composer>Axel Rose</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>5</id>
+            <nom>ABBA</nom>
+            <album>
+                <id>5</id>
+                <title>The Album</title>
+                <tracks>
+                    <track>
+                        <id>5</id>
+                        <name>The A Chance On Me</name>
+                        <miliseconds>249000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/The_a_chance_on_me.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Pop</genre>
+                        <composer>Benny Andersson</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>6</id>
+            <nom>Terror Reid</nom>
+            <album>
+                <id>6</id>
+                <title>When It's All Gone</title>
+                <tracks>
+                    <track>
+                        <id>6</id>
+                        <name>When It's All Gone</name>
+                        <miliseconds>180000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/When_it_is_all_gone.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Hip hop</genre>
+                        <composer>Getter</composer>
+                    </track>
+                </tracks>
+            </album>
+            <album>
+                <id>7</id>
+                <title>Uppercuts</title> 
+                <tracks>
+                    <track>
+                        <id>7</id>
+                        <name>Uppercuts</name>
+                        <miliseconds>180000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Uppercuts.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Hip hop</genre>
+                        <composer>Getter</composer>
+                    </track>
+                </tracks>
+            </album>
+            <album>
+                <id>8</id>
+                <title>Buried Alive</title>
+                <tracks>
+                    <track>
+                        <id>8</id>
+                        <name>Buried Alive</name>
+                        <miliseconds>181800</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Buried_alive.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Hip hop</genre>
+                        <composer>Getter</composer>
+                    </track>
+                </tracks>
+            </album>
+            <album>
+                <id>9</id>
+                <title>The Otha Side</title> 
+                <tracks>
+                    <track>
+                        <id>9</id>
+                        <name>The Otha Side</name>
+                        <miliseconds>152400</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/The_otha_side.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Hip hop</genre>
+                        <composer>Getter</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+         <artist>
+            <id>7</id>
+            <nom>Greta Van Fleet</nom>
+            <album>
+                <id>10</id>
+                <title>Black Smoke Rising</title>
+                <tracks>
+                    <track>
+                        <id>10</id>
+                        <name>Black Smoke Rising</name>
+                        <miliseconds>252000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Black_smoke_rising.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Hard rock</genre>
+                        <composer>Josh kiszka</composer>
+                        <composer>Jake kiszka</composer>
+                        <composer>Samuel kiszka</composer>
+                    </track>
+                    <track>
+                        <id>11</id>
+                        <name>Flower Power</name>
+                        <miliseconds>307800</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Flower_power.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Hard rock</genre>
+                        <composer>Josh kiszka</composer>
+                        <composer>Jake kiszka</composer>
+                        <composer>Samuel kiszka</composer>
+                    </track>
+                    <track>
+                        <id>12</id>
+                        <name>Highway Tune</name>
+                        <miliseconds>180000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Highway_tune.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Hard rock</genre>
+                        <composer>Josh kiszka</composer>
+                        <composer>Jake kiszka</composer>
+                        <composer>Samuel kiszka</composer>
+                    </track>
+                </tracks>
+            </album>
+            <album>
+                <id>11</id>
+                <title>Anthem of the Peaceful Army</title>
+                <tracks>
+                    <track>
+                        <id>13</id>
+                        <name>When The Curtain Falls</name>
+                        <miliseconds>246600</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/When_the_curtain_falls.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Hard rock</genre>
+                        <composer>Josh kiszka</composer>
+                        <composer>Jake kiszka</composer>
+                        <composer>Samuel kiszka</composer>
+                    </track>
+                </tracks>
+            </album>
+            <album>
+                <id>12</id>
+                <title>From the Fires</title>
+                <tracks>
+                    <track>
+                        <id>14</id>
+                        <name>Talk on the Street</name>
+                        <miliseconds>244800</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Talk_on_the_street.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Hard rock</genre>
+                        <composer>Josh kiszka</composer>
+                        <composer>Jake kiszka</composer>
+                        <composer>Samuel kiszka</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+          <artist>
+            <id>8</id>
+            <nom>Red Hot Chili Peppers</nom>
+            <album>
+                <id>13</id>
+                <title>The Getaway</title>
+                <tracks>
+                    <track>
+                        <id>15</id>
+                        <name>Dark Necessities</name>
+                        <miliseconds>307800</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Dark_necessities.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Rock alternativo</genre>
+                        <composer>Anthony kiedis</composer>
+                    </track>
+                </tracks>
+            </album>
+            <album>
+                <id>14</id>
+                <title>Californication</title>
+                <tracks>
+                    <track>
+                        <id>16</id>
+                        <name>Californication</name>
+                        <miliseconds>312600</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Californication.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Rock alternativo</genre>
+                        <composer>Anthony kiedis</composer>
+                    </track>
+                    <track>
+                        <id>17</id>
+                        <name>Otherside</name>
+                        <miliseconds>247200</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Otherside.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Rock alternativo</genre>
+                        <composer>Anthony kiedis</composer>
+                    </track>
+                </tracks>
+            </album>
+            <album>
+                <id>15</id>
+                <title>Stadium Arcadium</title>
+                <tracks>
+                    <track>
+                        <id>18</id>
+                        <name>Snow</name>
+                        <miliseconds>321000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Snow.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Rock alternativo</genre>
+                        <composer>Anthony kiedis</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>9</id>
+            <nom>Nirvana</nom>
+            <album>
+                <id>16</id>
+                <title>Nevermind</title>
+                <tracks>
+                    <track>
+                        <id>19</id>
+                        <name>Smells Like Teen Spirit</name>
+                        <miliseconds>262800</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Smells_like_teen_spirit.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Rock alternativo</genre>
+                        <composer>Kurt Cobain</composer>
+                    </track>
+                    <track>
+                        <id>20</id>
+                        <name>Come as You Are</name>
+                        <miliseconds>207000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Come_as_you_are.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Rock alternativo</genre>
+                        <composer>Kurt Cobain</composer>
+                    </track>
+                    <track>
+                        <id>21</id>
+                        <name>Lithium</name>
+                        <miliseconds>249000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Lithium.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Rock alternativo</genre>
+                        <composer>Kurt Cobain</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>10</id>
+            <nom>Green Day</nom>
+            <album>
+                <id>17</id>
+                <title>Father of All Motherfuckers</title>
+                <tracks>
+                    <track>
+                        <id>22</id>
+                        <name>Father Of All Motherfuckers</name>
+                        <miliseconds>141000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Father_of_all_motherfuckers.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Punk</genre>
+                        <genre>Rock alternativo</genre>
+                        <composer>Billie Joe Armstrong</composer>
+                    </track>
+                </tracks>
+            </album>
+            <album>
+                <id>18</id>
+                <title>American Idiot</title>
+                <tracks>
+                    <track>
+                        <id>23</id>
+                        <name>Holiday</name>
+                        <miliseconds>264600</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Holiday.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Punk</genre>
+                        <genre>Rock alternativo</genre>
+                        <composer>Billie Joe Armstrong</composer>
+                    </track>
+                    <track>
+                        <id>24</id>
+                        <name>American Idiot</name>
+                        <miliseconds>181800</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/American_idiot.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Punk</genre>
+                        <genre>Rock alternativo</genre>
+                        <composer>Billie Joe Armstrong</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>11</id>
+            <nom>Pantera</nom>
+            <album>
+                <id>19</id>
+                <title>Vulgar Display of Power</title>
+                <tracks>
+                    <track>
+                        <id>25</id>
+                        <name>Walk</name>
+                        <miliseconds>309000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Walk.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Heavy metal</genre>
+                        <composer>Dimebag Darrell</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>12</id>
+            <nom>Motorhead</nom>
+            <album>
+                <id>20</id>
+                <title>Ace of Spades</title>
+                <tracks>
+                    <track>
+                        <id>26</id>
+                        <name>Ace of Spades</name>
+                        <miliseconds>148200</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Ace_of_spades.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Heavy metal</genre>
+                        <composer>Lemmy Kilmister</composer>
+                    </track>
+                    <track>
+                        <id>27</id>
+                        <name>Love Me Like A Reptile</name>
+                        <miliseconds>148200</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Love_me_like_reptile.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Heavy metal</genre>
+                        <composer>Lemmy Kilmister</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>13</id>
+            <nom>RADWIMPS</nom>
+            <album>
+                <id>21</id>
+                <title>Your name</title>
+                <tracks>
+                    <track>
+                        <id>28</id>
+                        <name>Zenzenzense</name>
+                        <miliseconds>286000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Zenzenzense.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Pop Punk</genre>
+                        <composer>Yojiro Noda</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>14</id>
+            <nom>Rosalia</nom>
+            <album>
+                <id>22</id>
+                <title>Con altura</title>
+                <tracks>
+                    <track>
+                        <id>29</id>
+                        <name>Con altura</name>
+                        <miliseconds>145200</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Con_altura.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Reggaeton</genre>
+                        <composer>Rosalia</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>15</id>
+            <nom>RELS B</nom>
+            <album>
+                <id>23</id>
+                <title>La Latina</title>
+                <tracks>
+                    <track>
+                        <id>30</id>
+                        <name>La Latina</name>
+                        <miliseconds>180000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/La_latina.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Pop</genre>
+                        <composer>Rels B</composer>
+                    </track>
+                </tracks>
+            </album>
+            <album>
+                <id>24</id>
+                <title>Flakk Daniel's Lp</title>
+                <tracks>
+                    <track>
+                        <id>31</id>
+                        <name>Love it</name>
+                        <miliseconds>182000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Love_it.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Hip hop</genre>
+                        <composer>Rels B</composer>
+                    </track>
+                    <track>
+                        <id>32</id>
+                        <name>Es Mejor</name>
+                        <miliseconds>179000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Es_mejor.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Hip hop</genre>
+                        <composer>Rels B</composer>
+                    </track>                    
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>16</id>
+            <nom>Ed Sheeran</nom>
+            <album>
+                <id>25</id>
+                <title>Beautiful People</title>
+                <tracks>
+                    <track>
+                        <id>33</id>
+                        <name>Beautiful People</name>
+                        <miliseconds>190000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Beautiful_people.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Pop</genre>
+                        <composer>Ed Sheeran</composer>
+                    </track>
+                </tracks>
+            </album>
+            <album>
+                <id>26</id>
+                <title>Divide</title>
+                <tracks>
+                    <track>
+                        <id>34</id>
+                        <name>Perfect</name>
+                        <miliseconds>270000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Perfect.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Balada</genre>
+                        <composer>Ed Sheeran</composer>
+                    </track>
+                    <track>
+                        <id>35</id>
+                        <name>Galway Girl</name>
+                        <miliseconds>191000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Galway_girl.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Folk irlandes</genre>
+                        <composer>Ed Sheeran</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>17</id>
+            <nom>Frank Sinatra</nom>
+            <album>
+                <id>27</id>
+                <title>I've got you under my skin</title>
+                <tracks>
+                    <track>
+                        <id>36</id>
+                        <name>You make me feel so young</name>
+                        <miliseconds>153000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/You_make_me_feel_so_young.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Jazz</genre>
+                        <composer>Josef Myrow</composer>
+                    </track>
+                    <track>
+                        <id>37</id>
+                        <name>I've got you under my skin</name>
+                        <miliseconds>204600</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Ive_got_you_under_my_skin.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Swing</genre>
+                        <composer>Cole Porter</composer>
+                    </track>
+                    <track>
+                        <id>38</id>
+                        <name>Too Marvelous for words</name>
+                        <miliseconds>134400</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Too_marvelous_for_words.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Jazz</genre>
+                        <composer>Richard Whiting</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>18</id>
+            <nom>Porter Robinson</nom>
+            <album>
+                <id>28</id>
+                <title>Worlds</title>
+                <tracks>
+                    <track>
+                        <id>39</id>
+                        <name>Divinity</name>
+                        <miliseconds>360000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Divinity.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Electronica</genre>
+                        <composer>Porter Robinson</composer>
+                    </track>
+                    <track>
+                        <id>40</id>
+                        <name>Sad machine</name>
+                        <miliseconds>340000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Sad_machine.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Electronica</genre>
+                        <composer>Porter Robinson</composer>
+                    </track>
+                </tracks>
+            </album>
+            <album>
+                <id>29</id>
+                <title>Shelter</title>
+                <tracks>
+                    <track>
+                        <id>41</id>
+                        <name>Shelter</name>
+                        <miliseconds>360000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Shelter.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Electronica</genre>
+                        <composer>Madeon</composer>
+                    </track>>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>19</id>
+            <nom>Antonio Molina</nom>
+            <album>
+                <id>30</id>
+                <title>Antonio Molina Y el Cine</title>
+                <tracks>
+                    <track>
+                        <id>42</id>
+                        <name>Soy minero</name>
+                        <miliseconds>195600</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Soy_minero.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Copla</genre>
+                        <composer>Daniel Montorio</composer>
+                        <composer>Ramon Perello</composer>
+                    </track>
+                    <track>
+                        <id>43</id>
+                        <name>Soy un pobre presidiario</name>
+                        <miliseconds>183000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Soy_un_pobre_presidiario.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Copla</genre>
+                        <composer>Rafael de Leon</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>20</id>
+            <nom>Bob Seger</nom>
+            <album>
+                <id>31</id>
+                <title>Stranger In Town</title>
+                <tracks>
+                    <track>
+                        <id>44</id>
+                        <name>Old time Rock and Roll</name>
+                        <miliseconds>200000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Old_time_rock_and_roll.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Rock</genre>
+                        <composer>George Jackson</composer>
+                    </track>
+                    <track>
+                        <id>45</id>
+                        <name>Still the Same</name>
+                        <miliseconds>194400</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Still_the_same.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Rock</genre>
+                        <composer>Bob Seger</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>21</id>
+            <nom>Snoop Dogg</nom>
+            <album>
+                <id>32</id>
+                <title>Doggystyle</title>
+                <tracks>
+                    <track>
+                        <id>46</id>
+                        <name>Who am I</name>
+                        <miliseconds>243600</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Who_am_i.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Gangsta rap</genre>
+                        <composer>Andre Young</composer>
+                    </track>
+                    <track>
+                        <id>47</id>
+                        <name>Serial Killa</name>
+                        <miliseconds>199800</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Serial_killa.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Gangsta rap</genre>
+                        <composer>Broadus</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>
+        <artist>
+            <id>22</id>
+            <nom>Jake Bugg</nom>
+            <album>
+                <id>33</id>
+                <title>Jake Bugg</title>
+                <tracks>
+                    <track>
+                        <id>48</id>
+                        <name>Lightning Bolt</name>
+                        <miliseconds>135000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Lightning_bolt.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Folk Rock</genre>
+                        <composer>Iain Archer</composer>
+                    </track>
+                    <track>
+                        <id>49</id>
+                        <name>Two fingers</name>
+                         <miliseconds>189600</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Two_fingers.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Folk Rock</genre>
+                        <composer>Iain Archer</composer>
+                    </track>
+                    <track>
+                        <id>50</id>
+                        <name>Taste It</name>
+                        <miliseconds>135000</miliseconds>
+                        <path>/home/mateu/Escritorio/CancionesVLC/Taste_it.mp3</path>
+                        <media_types>mp3</media_types>
+                        <genre>Folk Rock</genre>
+                        <composer>Iain Archer</composer>
+                    </track>
+                </tracks>
+            </album>
+        </artist>                
+    </artists>
+</musica>
+
+
+
+
