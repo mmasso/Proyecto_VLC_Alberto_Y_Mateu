@@ -8,6 +8,7 @@ def dic_lista_paths(diccionario):
                 contador = contador + 1
                 listaVLC.append(diccionario[currentSong]['localizacion'])
     assert listaVLC != []
+    assert len(listaVLC) == len(diccionario)
     return listaVLC
 
-    #crear lista de tuplas orden localizacion, hacer sort i scar lista de localizacion.
+    # crear lista de tuplas orden localizacion, hacer sort i scar lista de localizacion.
