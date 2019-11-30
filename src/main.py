@@ -14,4 +14,4 @@ def main(rutaXml):
 
 
 if __name__ == "__main__":
-    main('XML_windowes.xml')
+    main('src/XML_windows.xml')
