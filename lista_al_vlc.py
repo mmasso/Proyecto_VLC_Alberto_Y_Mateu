@@ -5,7 +5,7 @@ def lista_a_vlc(lista):
     assert isinstance(lista, list)
     canciones = " ".join(lista)
     # rutaVLC = '"C:\\Program Files\\VideoLAN\\VLC\\vlc.exe"'
-    rutaVLC = '"vlxc"'
+    rutaVLC = '"vlc"'
     try:
         os.popen(rutaVLC)
     except OSError:
