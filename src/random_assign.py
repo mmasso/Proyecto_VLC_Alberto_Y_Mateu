@@ -18,7 +18,7 @@ def random_assign(diccionario):
             contador_order = contador_order + 1
             diccionario_randomizado[random_song]["order"] = contador_order
             diccionario.pop(random_song)
-    assert diccionario_randomizado != []
+    assert diccionario_randomizado != {}
     assert len(diccionario_randomizado) == longitudOriginal
     return diccionario_randomizado
     
