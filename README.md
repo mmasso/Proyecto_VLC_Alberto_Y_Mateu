@@ -7,7 +7,7 @@ En este proyecto, el primero que realizaremos en este curso, hemos construido un
 
 ## Utilización
 
-Para usar el programa deberemos ejectuar el fichero `main.py` desde el terminal python.
+Para usar el programa deberemos ejectuar el fichero `main.py` desde el terminal python o desde la carpeta, dandole doble click al fichero.
 
 ```
 mateu@mateu-PORTEGE-Z930:~/Escritorio/Proyecto1/Proyecto_VLC_Alberto_Y_Mateu$ python main.py 
