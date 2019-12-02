@@ -4,14 +4,13 @@ import os
 def lista_a_vlc(lista):
     assert isinstance(lista, list)
     canciones = " ".join(lista)
-    rutaVLC = '"C:\\Program Files\\VideoLAN\\VLC\\vlc.exe"'
-    # rutaVLC = '"vlc"'
+    ruta_vlc = '"C:\\Program Files\\VideoLAN\\VLC\\vlc.exe"'
     try:
-        exec(rutaVLC)
+        exec(ruta_vlc)
     except OSError:
         print('El sistema no puede encontrar la ruta especificada')
     else:
         pass
-    comando = rutaVLC + " " + canciones
+    comando = ruta_vlc + " " + canciones
     assert isinstance(comando, str)
     return os.popen(comando)

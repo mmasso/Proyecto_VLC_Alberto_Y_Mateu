@@ -1,7 +1,7 @@
 import xml.etree.ElementTree as ET
 
 
-def hacerdiccionario(rutaXml):
+def hacer_diccionario(rutaXml):
     try:
         open(rutaXml)
     except OSError:
@@ -13,17 +13,17 @@ def hacerdiccionario(rutaXml):
     root = tree.getroot()
     diccionario = {}
     for artist in root.iter('artist'):
-        nomArtist = artist.findtext('nom')
+        nom_artist = artist.findtext('nom')
         for album in artist.iter('album'):
-            titleAlbum = album.findtext('title')
+            title_album = album.findtext('title')
             for track in album.iter('track'):
-                trackName = track.findtext('name')
+                track_name = track.findtext('name')
                 path = track.findtext('path')
                 genre = track.findtext('genre')
                 composer = track.findtext('composer')
-                diccionario[trackName] = {'localizacion': path,
-                                          'artista': nomArtist,
-                                          'album': titleAlbum,
+                diccionario[track_name] = {'localizacion': path,
+                                          'artista': nom_artist,
+                                          'album': title_album,
                                           'genero': genre,
                                           'compositor': composer}
     assert diccionario != {}
