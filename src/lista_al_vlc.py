@@ -8,7 +8,7 @@ def lista_a_vlc(lista):
     try:
         exec(ruta_vlc)
     except OSError:
-        print('El sistema no puede encontrar la ruta especificada')
+        print('No tiene instalado el VLC')
     else:
         pass
     comando = ruta_vlc + " " + canciones
