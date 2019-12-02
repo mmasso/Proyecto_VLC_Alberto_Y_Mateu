@@ -4,10 +4,10 @@ from paths_para_vlc import dic_lista_paths
 from lista_al_vlc import lista_a_vlc
 
 
-def main(rutaXml):
-    assert isinstance(rutaXml, str)
-    diccionarioXml = hacer_diccionario(rutaXml)
-    dic_canciones_orden_aleatorio = random_assign(diccionarioXml)
+def main(ruta_xml):
+    assert isinstance(ruta_xml, str)
+    diccionario_xml = hacer_diccionario(ruta_xml)
+    dic_canciones_orden_aleatorio = random_assign(diccionario_xml)
     lista_paths_aleatorios = dic_lista_paths(dic_canciones_orden_aleatorio)
     comando_para_vlc = lista_a_vlc(lista_paths_aleatorios)
     return comando_para_vlc
