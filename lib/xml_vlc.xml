@@ -13,7 +13,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>1</id>
                         <name>Insert coin</name>
                         <miliseconds>99000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Insert_coin.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Insert_coin.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Alternative Metal</genre>
                         <composer>Paul Gray</composer>
@@ -32,7 +32,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>2</id>
                         <name>Because</name>
                         <miliseconds>165000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Because.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Because.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Rock Pop</genre>
                         <composer>John Lennon</composer> 
@@ -51,7 +51,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>3</id>
                         <name>Battery</name>
                         <miliseconds>312000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Battery.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Battery.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Trash Metal</genre>
                         <composer>Lars Ulrich</composer>
@@ -70,7 +70,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>4</id>
                         <name>Back in Black</name>
                         <miliseconds>255000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Back_in_black.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Back_in_black.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Hard Rock</genre>
                         <composer>Axel Rose</composer>
@@ -89,7 +89,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>5</id>
                         <name>The A Chance On Me</name>
                         <miliseconds>249000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\The_a_chance_on_me.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\The_a_chance_on_me.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Pop</genre>
                         <composer>Benny Andersson</composer>
@@ -108,7 +108,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>6</id>
                         <name>When It's All Gone</name>
                         <miliseconds>180000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\When_it_is_all_gone.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\When_it_is_all_gone.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Hip hop</genre>
                         <composer>Getter</composer>
@@ -123,7 +123,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>7</id>
                         <name>Uppercuts</name>
                         <miliseconds>180000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Uppercuts.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Uppercuts.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Hip hop</genre>
                         <composer>Getter</composer>
@@ -138,7 +138,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>8</id>
                         <name>Buried Alive</name>
                         <miliseconds>181800</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Buried_alive.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Buried_alive.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Hip hop</genre>
                         <composer>Getter</composer>
@@ -153,7 +153,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>9</id>
                         <name>The Otha Side</name>
                         <miliseconds>152400</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\The_otha_side.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\The_otha_side.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Hip hop</genre>
                         <composer>Getter</composer>
@@ -172,7 +172,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>10</id>
                         <name>Black Smoke Rising</name>
                         <miliseconds>252000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Black_smoke_rising.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Black_smoke_rising.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Hard rock</genre>
                         <composer>Josh kiszka</composer>
@@ -183,7 +183,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>11</id>
                         <name>Flower Power</name>
                         <miliseconds>307800</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Flower_power.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Flower_power.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Hard rock</genre>
                         <composer>Josh kiszka</composer>
@@ -194,7 +194,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>12</id>
                         <name>Highway Tune</name>
                         <miliseconds>180000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Highway_tune.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Highway_tune.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Hard rock</genre>
                         <composer>Josh kiszka</composer>
@@ -211,7 +211,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>13</id>
                         <name>When The Curtain Falls</name>
                         <miliseconds>246600</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\When_the_curtain_falls.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\When_the_curtain_falls.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Hard rock</genre>
                         <composer>Josh kiszka</composer>
@@ -228,7 +228,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>14</id>
                         <name>Talk on the Street</name>
                         <miliseconds>244800</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Talk_on_the_street.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Talk_on_the_street.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Hard rock</genre>
                         <composer>Josh kiszka</composer>
@@ -249,7 +249,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>15</id>
                         <name>Dark Necessities</name>
                         <miliseconds>307800</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Dark_necessities.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Dark_necessities.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Rock alternativo</genre>
                         <composer>Anthony kiedis</composer>
@@ -264,7 +264,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>16</id>
                         <name>Californication</name>
                         <miliseconds>312600</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Californication.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Californication.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Rock alternativo</genre>
                         <composer>Anthony kiedis</composer>
@@ -273,7 +273,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>17</id>
                         <name>Otherside</name>
                         <miliseconds>247200</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Otherside.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Otherside.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Rock alternativo</genre>
                         <composer>Anthony kiedis</composer>
@@ -288,7 +288,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>18</id>
                         <name>Snow</name>
                         <miliseconds>321000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Snow.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Snow.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Rock alternativo</genre>
                         <composer>Anthony kiedis</composer>
@@ -307,7 +307,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>19</id>
                         <name>Smells Like Teen Spirit</name>
                         <miliseconds>262800</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Smells_like_teen_spirit.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Smells_like_teen_spirit.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Rock alternativo</genre>
                         <composer>Kurt Cobain</composer>
@@ -316,7 +316,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>20</id>
                         <name>Come as You Are</name>
                         <miliseconds>207000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Come_as_you_are.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Come_as_you_are.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Rock alternativo</genre>
                         <composer>Kurt Cobain</composer>
@@ -325,7 +325,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>21</id>
                         <name>Lithium</name>
                         <miliseconds>249000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Lithium.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Lithium.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Rock alternativo</genre>
                         <composer>Kurt Cobain</composer>
@@ -344,7 +344,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>22</id>
                         <name>Father Of All Motherfuckers</name>
                         <miliseconds>141000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Father_of_all_motherfuckers.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Father_of_all_motherfuckers.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Punk</genre>
                         <genre>Rock alternativo</genre>
@@ -360,7 +360,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>23</id>
                         <name>Holiday</name>
                         <miliseconds>264600</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Holiday.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Holiday.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Punk</genre>
                         <genre>Rock alternativo</genre>
@@ -370,7 +370,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>24</id>
                         <name>American Idiot</name>
                         <miliseconds>181800</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\American_idiot.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\American_idiot.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Punk</genre>
                         <genre>Rock alternativo</genre>
@@ -390,7 +390,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>25</id>
                         <name>Walk</name>
                         <miliseconds>309000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Walk.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Walk.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Heavy metal</genre>
                         <composer>Dimebag Darrell</composer>
@@ -409,7 +409,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>26</id>
                         <name>Ace of Spades</name>
                         <miliseconds>148200</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Ace_of_spades.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Ace_of_spades.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Heavy metal</genre>
                         <composer>Lemmy Kilmister</composer>
@@ -418,7 +418,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>27</id>
                         <name>Love Me Like A Reptile</name>
                         <miliseconds>148200</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Love_me_like_reptile.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Love_me_like_reptile.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Heavy metal</genre>
                         <composer>Lemmy Kilmister</composer>
@@ -437,7 +437,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>28</id>
                         <name>Zenzenzense</name>
                         <miliseconds>286000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Zenzenzense.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Zenzenzense.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Pop Punk</genre>
                         <composer>Yojiro Noda</composer>
@@ -456,7 +456,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>29</id>
                         <name>Con altura</name>
                         <miliseconds>145200</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Con_altura.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Con_altura.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Reggaeton</genre>
                         <composer>Rosalia</composer>
@@ -475,7 +475,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>30</id>
                         <name>La Latina</name>
                         <miliseconds>180000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\La_latina.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\La_latina.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Pop</genre>
                         <composer>Rels B</composer>
@@ -490,7 +490,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>31</id>
                         <name>Love it</name>
                         <miliseconds>182000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Love_it.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Love_it.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Hip hop</genre>
                         <composer>Rels B</composer>
@@ -499,7 +499,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>32</id>
                         <name>Es Mejor</name>
                         <miliseconds>179000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Es_mejor.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Es_mejor.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Hip hop</genre>
                         <composer>Rels B</composer>
@@ -518,7 +518,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>33</id>
                         <name>Beautiful People</name>
                         <miliseconds>190000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Beautiful_people.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Beautiful_people.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Pop</genre>
                         <composer>Ed Sheeran</composer>
@@ -533,7 +533,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>34</id>
                         <name>Perfect</name>
                         <miliseconds>270000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Perfect.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Perfect.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Balada</genre>
                         <composer>Ed Sheeran</composer>
@@ -542,7 +542,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>35</id>
                         <name>Galway Girl</name>
                         <miliseconds>191000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Galway_girl.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Galway_girl.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Folk irlandes</genre>
                         <composer>Ed Sheeran</composer>
@@ -561,7 +561,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>36</id>
                         <name>You make me feel so young</name>
                         <miliseconds>153000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\You_make_me_feel_so_young.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\You_make_me_feel_so_young.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Jazz</genre>
                         <composer>Josef Myrow</composer>
@@ -570,7 +570,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>37</id>
                         <name>I've got you under my skin</name>
                         <miliseconds>204600</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Ive_got_you_under_my_skin.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Ive_got_you_under_my_skin.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Swing</genre>
                         <composer>Cole Porter</composer>
@@ -579,7 +579,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>38</id>
                         <name>Too Marvelous for words</name>
                         <miliseconds>134400</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Too_marvelous_for_words.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Too_marvelous_for_words.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Jazz</genre>
                         <composer>Richard Whiting</composer>
@@ -598,7 +598,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>39</id>
                         <name>Divinity</name>
                         <miliseconds>360000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Divinity.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Divinity.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Electronica</genre>
                         <composer>Porter Robinson</composer>
@@ -607,7 +607,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>40</id>
                         <name>Sad machine</name>
                         <miliseconds>340000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Sad_machine.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Sad_machine.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Electronica</genre>
                         <composer>Porter Robinson</composer>
@@ -622,7 +622,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>41</id>
                         <name>Shelter</name>
                         <miliseconds>360000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Shelter.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Shelter.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Electronica</genre>
                         <composer>Madeon</composer>
@@ -641,7 +641,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>42</id>
                         <name>Soy minero</name>
                         <miliseconds>195600</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Soy_minero.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Soy_minero.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Copla</genre>
                         <composer>Daniel Montorio</composer>
@@ -651,7 +651,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>43</id>
                         <name>Soy un pobre presidiario</name>
                         <miliseconds>183000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Soy_un_pobre_presidiario.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Soy_un_pobre_presidiario.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Copla</genre>
                         <composer>Rafael de Leon</composer>
@@ -670,7 +670,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>44</id>
                         <name>Old time Rock and Roll</name>
                         <miliseconds>200000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Old_time_rock_and_roll.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Old_time_rock_and_roll.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Rock</genre>
                         <composer>George Jackson</composer>
@@ -679,7 +679,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>45</id>
                         <name>Still the Same</name>
                         <miliseconds>194400</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Still_the_same.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Still_the_same.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Rock</genre>
                         <composer>Bob Seger</composer>
@@ -698,7 +698,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>46</id>
                         <name>Who am I</name>
                         <miliseconds>243600</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Who_am_i.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Who_am_i.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Gangsta rap</genre>
                         <composer>Andre Young</composer>
@@ -707,7 +707,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>47</id>
                         <name>Serial Killa</name>
                         <miliseconds>199800</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Serial_killa.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Serial_killa.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Gangsta rap</genre>
                         <composer>Broadus</composer>
@@ -726,7 +726,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>48</id>
                         <name>Lightning Bolt</name>
                         <miliseconds>135000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Lightning_bolt.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Lightning_bolt.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Folk Rock</genre>
                         <composer>Iain Archer</composer>
@@ -735,7 +735,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>49</id>
                         <name>Two fingers</name>
                          <miliseconds>189600</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Two_fingers.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Two_fingers.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Folk Rock</genre>
                         <composer>Iain Archer</composer>
@@ -744,7 +744,7 @@ xsi:noNamespaceSchemaLocation="xsd_vlc.xsd">
                         <id>50</id>
                         <name>Taste It</name>
                         <miliseconds>135000</miliseconds>
-                        <path>"C:\Users\mateu\Desktop\CancionesVLC\Taste_it.mp3"</path>
+                        <path>"C:\Users\mateu\Desktop\Proyecto\Proyecto_VLC_Alberto_Y_Mateu\lib\cancionesVLC\Taste_it.mp3"</path>
                         <media_types>mp3</media_types>
                         <genre>Folk Rock</genre>
                         <composer>Iain Archer</composer>
