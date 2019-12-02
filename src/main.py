@@ -14,4 +14,4 @@ def main(rutaXml):
 
 
 if __name__ == "__main__":
-    main("C:\\Users\\mateu\Desktop\\Proyecto\\Proyecto_VLC_Alberto_Y_Mateu\\lib\\xml_vlc.xml")
+    main("C:\\Users\\mateu\\Desktop\\Proyecto\\Proyecto_VLC_Alberto_Y_Mateu\\lib\\xml_vlc.xml")
